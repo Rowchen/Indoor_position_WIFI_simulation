@@ -2,7 +2,7 @@
 
 a simple simulator for wifi indoor positioning ,using RSS model
 
-WIFI MODEL using simple RSS model to generate rss
+WIFI MODEL using simple RSS model  to generate rss
 
 positioning model
 
